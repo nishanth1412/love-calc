@@ -1,0 +1,22 @@
+body{
+  text-align:center;
+  color:white;
+}
+button{
+   margin-top: 10px;
+  padding: 5px 20px;
+  font-size: 16px;
+  background-color: #ff69b4;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+}
+body{
+background-image:url("lovetoday.jfif");
+background-repeat:no-repeat;
+background-size:cover;
+background-position:center;
+height:500px;
+position:relative;
+}
+
